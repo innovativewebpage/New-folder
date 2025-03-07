@@ -1,5 +1,5 @@
 <html>
-  <head></head>
-
-  <body></body>
+  <body>
+    <h3>Ilife</h3>
+  </body>
 </html>;
